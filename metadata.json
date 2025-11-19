@@ -1,0 +1,5 @@
+{
+  "name": "Trợ lý AI viết biện pháp thi giáo viên giỏi",
+  "description": "Một ứng dụng thông minh sử dụng AI để hỗ trợ giáo viên viết báo cáo biện pháp dự thi giáo viên giỏi theo từng bước, đảm bảo nội dung logic, chặt chẽ và chuyên nghiệp. Ứng dụng có khả năng tạo biểu đồ minh họa số liệu.",
+  "requestFramePermissions": []
+}
