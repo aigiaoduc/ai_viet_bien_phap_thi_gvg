@@ -12,20 +12,26 @@ export interface UserAccount {
 export const USERS: UserAccount[] = [
   {
     username: "admin",
-    password: "123",
+    password: "1230",
     initialCredits: 999,
     fullName: "Thầy Quân (Admin)"
   },
   {
     username: "giaovien1",
-    password: "123",
+    password: "1230",
     initialCredits: 10,
     fullName: "Cô Lan (GV Toán)"
   },
   {
     username: "giaovien2",
-    password: "456",
+    password: "4560",
     initialCredits: 1,
     fullName: "Thầy Hùng (GV Văn)"
+  },
+{
+    username: "aibienphap",
+    password: "123456",
+    initialCredits: 2,
+    fullName: "Thầy cô nhóm Ai Giáo dục"
   }
 ];
